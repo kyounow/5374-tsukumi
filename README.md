@@ -9,9 +9,9 @@ For English please see [LOCALIZE_en.md](LOCALIZE_en.md).
 ## ブランチの運用について
 
 * **master**: ローカライズをする場合にはこのブランチをforkしてください (2014/5/7 updated v1.1)
-* **kanazawa**: 5374の金沢バージョン
+* **市町村名**: 5374の各市町村バージョン
 * **gh-pages**: 5374の金沢バージョンリリースブランチ
-* **dev**: 今後kanazawaへ適用予定の開発ブランチ
+
 
 ## 使い方について
 
